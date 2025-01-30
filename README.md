@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhishek pandey</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-6461&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-6461" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-6461" alt="abhishek-6461" /></a> </p>
 
+- 🔭 I’m currently working on **learning Data structures**
+
+- 🌱 I’m currently learning **backend development,react native**
+
+- 💬 Ask me about **frontend development,react**
+
 - 📫 How to reach me **abhishek.pandeya1238@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VvNWyx9sIjX9Ocv71kNFoMrtYer5BwFW/view?usp=drive_link](https://drive.google.com/file/d/1VvNWyx9sIjX9Ocv71kNFoMrtYer5BwFW/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
